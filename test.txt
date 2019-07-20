@@ -1,4 +1,0 @@
-testing the power of the git!
-version 1
-version 2
-
